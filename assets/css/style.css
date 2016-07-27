@@ -126,7 +126,7 @@ form.signup input.form-control:focus {
 	background: url(../img/main-bg.jpg) no-repeat center top;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 750px;
+	min-height: 800px;
 	width: 100%;	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
