@@ -123,9 +123,10 @@ form.signup input.form-control:focus {
 
 #wrapper {
 	text-align: center;
-	background: url(../img/main-bg.png) no-repeat center top;
+	background: url(../img/main-bg.png) no-repeat center top ;
 	background-attachment: relative;
 	background-position: center center;
+  opacity: 0.8
 	min-height: 800px;
 	width: 100%;	
     -webkit-background-size: 100%;
