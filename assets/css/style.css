@@ -123,7 +123,7 @@ form.signup input.form-control:focus {
 
 #wrapper {
 	text-align: center;
-	background: url(../img/main-bg.png) no-repeat center top ;
+	background: url(../img/main-bg-old.jpg) no-repeat center top ;
 	background-attachment: relative;
 	background-position: center center;
   opacity: 0.8
